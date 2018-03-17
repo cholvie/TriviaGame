@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+	background: url(../images/guitars2.jpg);
+	text-align: left;
+}
+
+#container {
+	padding: 5% 0;
+    width:600px;
+    margin: 75px auto;  
+    text-align: center 
+}
+
+h1 {
+	font-family: 'Chewy', cursive;
+	font-size: 75px;
+	font-weight: bold;
+	color: mediumblue;
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 50px 0px;
+}
+
+button {
+    background: #7FFF00;
+	font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    width: 200px;
+    height: 80px;
+    margin: 80px auto 0 auto;
+    cursor: pointer;
+    font-size: 45px;;
+ ;
+}
+
+p {
+    
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#questions {
+    text-align: left;
+}
+
+#start {
+	margin-top: 10%;
+	border: 2px solid black;
+	background: #7FFF00;
+}
+
+#done {
+	margin-top: 10%;
+	border: 2px solid black;
+	background: #ff0000;
+}
+
+#play-area h2 {
+	margin-top: 50px;
+}
